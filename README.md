@@ -1,4 +1,4 @@
-# Project-Medical-Appointments
+# Project Medical Appointments
 In this work, I explore a dataset containing information of 100,000 medical appointments in Brazil. The aim of this analysis is
 to have more insights on what variables could have attributed to patients missing their appointments. More background details as 
 well as the codes are of this repo. I put out a caveat that this project is more of concreting concepts of Exploratory Data Visualizations. 
